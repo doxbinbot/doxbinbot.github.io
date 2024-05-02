@@ -61,7 +61,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+permalink: "https://t.me/Doxbininforobot"
 
 # Compress
 compress_html:
