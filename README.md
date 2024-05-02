@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhatATheme
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
 
@@ -51,3 +52,6 @@
 
 ### License
 The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
+=======
+doxbinbot - это мощный инструмент, предназначенный для сбора и предоставления конфиденциальной информации о людях (доксинга). Бот ищет данные о физических и юридических лицах из различных источников, включая публичные базы данных, социальные сети и другие открытые источники информации. DoxBot обеспечивает доступ к такой информации с целью осведомления и использования в различных сферах, таких как кибербезопасность, правоохранительные органы, расследования и т. д. Важно использовать DoxBot в соответствии с законодательством и этическими нормами."
+>>>>>>> ae52e12aed15a48925e5578f4de9455e26547743
