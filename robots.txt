@@ -1,0 +1,3 @@
+Sitemap: https://doxbinbot.ru/sitemap.xml
+User-agent: *
+Allow: 
