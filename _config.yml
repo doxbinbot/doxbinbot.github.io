@@ -97,8 +97,3 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 =======
-permalink: /404.html
-url: "doxbinbot.github.io"
-targeturl: "doxbinbot.ru"
-baseurl: "doxbinbot"
->>>>>>> ae52e12aed15a48925e5578f4de9455e26547743
