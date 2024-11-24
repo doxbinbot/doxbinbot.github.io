@@ -3,8 +3,16 @@
 
     <url>
         <loc>https://doxbinbot.ru</loc>
-        <lastmod>2024-05-02</lastmod>
+        <lastmod>2024-11-01</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+
+    <url>
+        <loc>https://doxbinbot.ru/doxbot.html</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
 </urlset>
